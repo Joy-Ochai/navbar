@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Lobster&family=Quicksand:wght@300&family=Roboto:wght@700&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+}
+nav {
+    background-color: navy;
+    padding: 25px 10px;
+    
+}
+.sub-nav {
+    display: inline;
+   margin-right: 15%;
+}
+.last {
+    margin-right: 0;
+}
+span {
+    font-weight: 700;
+}
+button {
+background-color: transparent;
+width: 100px;
+padding: 10px;
+border:  1px solid white;
+border-radius: 20px;
+}
+.no-border {
+    border: none;
+}
+a {
+  margin-right: 15px;
+  text-align: center;
+}
